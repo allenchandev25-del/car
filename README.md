@@ -2,8 +2,6 @@
 
 A thrilling 2D racing game built with Raylib where you navigate through traffic, avoid pedestrians, and use gravity flips to drive on the ceiling! Test your reflexes and master gravity manipulation to achieve the highest score.
 
-![Game Screenshot](https://via.placeholder.com/800x400/333333/FFFFFF?text=Car+Racing+with+Gravity+Flip)
-
 ## ✨ Features
 
 - **Three-Lane Racing**: Navigate through dynamic traffic across three lanes
